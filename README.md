@@ -1,2 +1,3 @@
 # Sudoku
-sudoku web app
+
+repository for Software engineering lab assignment
